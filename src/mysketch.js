@@ -7,7 +7,7 @@ function draw () {
   fill(255)
   textAlign(CENTER, CENTER)
   textSize(32)
-  text('Velkommen til Programmering', width / 2, height / 2)
+  text('Velkommen til Programmering!', width / 2, height / 2)
 }
 
 export { setup, draw }
